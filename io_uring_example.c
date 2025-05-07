@@ -1,3 +1,5 @@
+// This file is only for Linux.  You need to have the ilburing library installed for this to work
+
 #include <stdio.h>
 #include <fcntl.h>
 #include <string.h>
